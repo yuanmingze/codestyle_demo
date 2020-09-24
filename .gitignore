@@ -1,3 +1,6 @@
+/cpp/build/
+/doc/cpp
+
 # Prerequisites
 *.d
 
